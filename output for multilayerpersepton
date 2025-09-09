@@ -1,0 +1,17 @@
+WARNING:tensorflow:From C:\Users\Admin\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Epoch 1000, Loss: 0.6931
+Epoch 2000, Loss: 0.6931
+Epoch 3000, Loss: 0.6931
+Epoch 4000, Loss: 0.6931
+Epoch 5000, Loss: 0.6931
+Epoch 6000, Loss: 0.6931
+Epoch 7000, Loss: 0.6931
+Epoch 8000, Loss: 0.6931
+Epoch 9000, Loss: 0.6931
+Epoch 10000, Loss: 0.6931
+Predictions:
+[[0]
+ [1]
+ [0]
+ [1]]
