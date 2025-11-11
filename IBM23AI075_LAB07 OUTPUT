@@ -1,0 +1,15 @@
+Epoch 1/5
+C:\Users\Admin\anaconda3\Lib\site-packages\keras\src\layers\convolutional\base_conv.py:107: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+422/422 - 5s - 12ms/step - accuracy: 0.9043 - loss: 0.3037 - val_accuracy: 0.9818 - val_loss: 0.0643
+Epoch 2/5
+422/422 - 7s - 17ms/step - accuracy: 0.9684 - loss: 0.1031 - val_accuracy: 0.9858 - val_loss: 0.0468
+Epoch 3/5
+422/422 - 7s - 17ms/step - accuracy: 0.9767 - loss: 0.0736 - val_accuracy: 0.9872 - val_loss: 0.0417
+Epoch 4/5
+422/422 - 7s - 17ms/step - accuracy: 0.9801 - loss: 0.0618 - val_accuracy: 0.9903 - val_loss: 0.0354
+Epoch 5/5
+422/422 - 7s - 16ms/step - accuracy: 0.9842 - loss: 0.0529 - val_accuracy: 0.9918 - val_loss: 0.0322
+313/313 - 1s - 2ms/step - accuracy: 0.9896 - loss: 0.0293
+Test Accuracy: 0.9896
+313/313 ━━━━━━━━━━━━━━━━━━━━ 1s 2ms/step
